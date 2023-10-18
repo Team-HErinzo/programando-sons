@@ -66,9 +66,65 @@ h1 {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
 }
 
-.tecla_puff{
-background-image: url(../images/xandão.jpg);
+.tecla_pom{
+background-image: url(../images/xandao-bixinha.gif);
 background-size:100%;
 background-repeat: no-repeat;
 background-position: center;
+}
+
+.tecla_clap{
+  background-image: url(../images/among-us.gif);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_tim{
+  background-image: url(../images/heavy-time-to-dance-conga-tf2.gif);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_puff{
+  background-image: url(../images/fnaf.gif);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_splash{
+  background-image: url(../images/banana-monke.gif);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_toim{
+  background-image: url(../images/xandão.jpg);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_psh{
+  background-image: url(../images/xandão.jpg);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_tic{
+  background-image: url(../images/xandão.jpg);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tecla_tom{
+  background-image: url(../images/xandão.jpg);
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
