@@ -66,35 +66,35 @@ h1 {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
 }
 
-.tecla_pom{
+.super_xandao{
 background-image: url(../images/xandao-bixinha.gif);
 background-size:100%;
 background-repeat: no-repeat;
 background-position: center;
 }
 
-.tecla_clap{
+.among_us{
   background-image: url(../images/among-us.gif);
   background-size:100%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.tecla_tim{
+.heavy{
   background-image: url(../images/heavy-time-to-dance-conga-tf2.gif);
   background-size:100%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.tecla_puff{
+.fazbear{
   background-image: url(../images/fnaf.gif);
   background-size:100%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.tecla_splash{
+.banana_monkey{
   background-image: url(../images/banana-monke.gif);
   background-size:100%;
   background-repeat: no-repeat;
